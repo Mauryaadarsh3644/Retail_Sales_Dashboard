@@ -66,7 +66,9 @@ The dashboard is designed for **business decision-making**, enabling users to qu
 
 ## 📸 Dashboard Preview
 
-(Attach the dashboard screenshot here)
+## 📸 Dashboard Preview
+
+![Retail Dashboard](dashboard.png)
 
 ---
 
