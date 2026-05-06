@@ -68,7 +68,7 @@ The dashboard is designed for **business decision-making**, enabling users to qu
 
 ## 📸 Dashboard Preview
 
-![Retail Dashboard](dashboard.png))
+![Retail Dashboard](assets/dashboard.png))
 
 ---
 
