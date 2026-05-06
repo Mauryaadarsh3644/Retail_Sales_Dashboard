@@ -68,7 +68,7 @@ The dashboard is designed for **business decision-making**, enabling users to qu
 
 ## 📸 Dashboard Preview
 
-![Retail Dashboard](C:\Users\maury\Desktop\Retail Sales Dashboard\ScreenShot\Dashboard.png)
+![Main Dashboard](assets/Dashboard.png)
 ---
 
 ## ⚙️ How to Use
